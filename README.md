@@ -26,7 +26,7 @@
 
 
 <p>Markdown Usage
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahad31&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahad31&theme=default)
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahad31&show_icons=true&locale=en" alt="rahad31" /></p>
