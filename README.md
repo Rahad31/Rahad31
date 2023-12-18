@@ -9,9 +9,9 @@
 <p align="center">- 🌱 I’m currently learning **React.js & Next.js**
 
 </p>
-<p align="center">- 📫 How to reach me **rahad3100@gmail.com** 
+📫 How to reach me **rahad3100@gmail.com** 
 
-</p>
+
 <br>
 
 <h3 align="center">Connect with me:</h3>
