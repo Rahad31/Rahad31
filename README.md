@@ -26,7 +26,8 @@
 
 Markdown Usage
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rahad31&theme=apprentice&utcOffset=8)
-
+Markdown Usage
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rahad31&theme=default&utcOffset=8)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahad31&show_icons=true&locale=en" alt="rahad31" /></p>
 
