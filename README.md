@@ -47,6 +47,6 @@
 
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahad31&" alt="rahad31" /></p>
 
-<p align="center"> <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahad31&theme=buefy" alt="rahad31" /></p>
+<p align="center"> <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahad31&theme=default" alt="rahad31" /></p>
 
 <br>
