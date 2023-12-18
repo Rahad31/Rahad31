@@ -25,7 +25,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahad31&show_icons=true&locale=en&layout=compact" alt="rahad31" /></p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rahad31&theme=default&utcOffset=8)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahad31&theme=default)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahad31&show_icons=true&locale=en" alt="rahad31" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahad31&" alt="rahad31" /></p>
