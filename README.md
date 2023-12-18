@@ -15,8 +15,12 @@
 <br>
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">About Me :</h3>
 <p  align="center">I am final year student of B.Sc. in CSE in Mawlana Bhashani Science and Technology University. I am a MERN stack developer with a passion for creating outstanding user experiences through code! I use react, JavaScript, express js, firebase, DaisyUI , Tailwind CSS etc for web application development. I've been weaving interactive and seamless web applications using the latest technology. I specialize in building robust and scalable web applications using React. From single-page applications to complex enterprise solutions, I am confident to tackle diverse challenges</p>
+
+<br>
+<h3 align="center">Goals :</h3>
+<p  align="center">My goal is to make awesome user experiences through building up awesome web applications.</p>
 
 <br>
 <h3 align="center">Connect with me:</h3>
