@@ -14,6 +14,11 @@
 
 <br>
 
+
+<h3 align="center">Connect with me:</h3>
+<p  align="center">I am final year student of B.Sc. in CSE in Mawlana Bhashani Science and Technology University. I am a MERN stack developer with a passion for creating outstanding user experiences through code! I use react, JavaScript, express js, firebase, DaisyUI , Tailwind CSS etc for web application development. I've been weaving interactive and seamless web applications using the latest technology. I specialize in building robust and scalable web applications using React. From single-page applications to complex enterprise solutions, I am confident to tackle diverse challenges</p>
+
+<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/rahad3100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahad3100" height="30" width="40" /></a>
